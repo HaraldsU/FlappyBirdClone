@@ -2,8 +2,8 @@
 - Clone of the original Flappy Bird game made in Unity
 - High score stored locally
 - Game controls:
-    Jump: Right mouse button, space bar, enter, up-arrow key
-    Click UI: Right mouse button
+    Jump: Left mouse button, space bar, enter, up-arrow key
+    Click UI: Left mouse button
 - Play Here:
 [https://play.unity.com/mg/other/webgl-builds-369045]
 
