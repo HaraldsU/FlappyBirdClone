@@ -5,7 +5,7 @@
     Jump: Left mouse button, space bar, enter, up-arrow key
     Click UI: Left mouse button
 - Play Here:
-[https://play.unity.com/mg/other/webgl-builds-369045]
+https://play.unity.com/en/games/c47aba3f-9537-421e-9c74-2dbfb374d479/flappy-bird-clone
 
 Screenshots of the game:
 
